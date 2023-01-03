@@ -1,0 +1,3 @@
+rootProject.name='NewCallSDK'
+include ':app'
+include ':mylibrary'
